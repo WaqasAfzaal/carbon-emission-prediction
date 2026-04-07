@@ -29,3 +29,14 @@ This project analyses and predicts carbon emissions based on user activity, devi
 
 ## 📁 Files
 - `dissertation original.ipynb` – Full analysis and model
+
+- ## 📷 Visualisations
+
+### Carbon Emissions by Time of Day (iOS Users - USA)
+![Time of Day](time_of_day_emissions.png)
+
+### Clean Energy Usage by Country
+![Clean Energy](clean_energy_by_country.png)
+
+### iOS vs Android Usage (USA)
+![Usage Comparison](ios_vs_android_usage.png)
